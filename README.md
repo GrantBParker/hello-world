@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+Tutorial, First time attempting version control for CSC 154! 
